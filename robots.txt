@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://graeff.carrd.co/sitemap.xml
